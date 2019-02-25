@@ -5,7 +5,7 @@ print(' /  |')
 print('/___|')
 
 # variables in python
-# strings 
+# strings
 character_name = 'Tom'
 #numbers or decimal num's
 character_age = 50
