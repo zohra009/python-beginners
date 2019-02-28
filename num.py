@@ -9,5 +9,5 @@ print(10 % 3)
 my_num = 5
 #print num next to a string use str(#)
 print(str(my_num) + " my favorite number")
-#common math functions
-print(abs(my_num))
+#common math functions abs(), pow(#, power raised to)
+print(pow(4,6))
